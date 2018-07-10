@@ -3,7 +3,7 @@ require_relative "heap"
 class Array
   def heap_sort!
     len = length
-    (0...len).each do |i|
+    (0...len).each do |i| # this i is the pointer index
       BinaryMinHeap.heapify_up(self, i, i + 1) { |a, b| b <=> a }
     end
     
@@ -16,6 +16,8 @@ class Array
   end
 end
 
+
+# # O(nlogn)
 # class Array
 #   def heap_sort!
 #     heap = BinaryMinHeap.new
