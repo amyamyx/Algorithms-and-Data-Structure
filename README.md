@@ -9,4 +9,5 @@ Index of topics:
 * [Quick Sort](https://github.com/amyamyx/Algorithms-and-Data-Structures/tree/master/quick_sort)
 * [Binary Search Tree](https://github.com/amyamyx/Algorithms-and-Data-Structures/tree/master/binary_search_tree)
 * [Graph](https://github.com/amyamyx/Algorithms-and-Data-Structures/tree/master/graph)
+* [Dynamic Programming](https://github.com/amyamyx/Algorithms-and-Data-Structures/tree/master/dynamic_programming)
 * ...to be updated
